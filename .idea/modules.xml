@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hystrix-spring-boot-starter/hystrix-spring-boot-starter.iml" filepath="$PROJECT_DIR$/hystrix-spring-boot-starter/hystrix-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-spring-boot-starter-test/hystrix-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/hystrix-spring-boot-starter-test/hystrix-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodext-spring-boot-starter/methodext-spring-boot-starter.iml" filepath="$PROJECT_DIR$/methodext-spring-boot-starter/methodext-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodext-spring-boot-starter-test/methodext-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/methodext-spring-boot-starter-test/methodext-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/middleware.iml" filepath="$PROJECT_DIR$/.idea/middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-spring/mybatis-spring.iml" filepath="$PROJECT_DIR$/mybatis-spring/mybatis-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-spring-boot-starter/mybatis-spring-boot-starter.iml" filepath="$PROJECT_DIR$/mybatis-spring-boot-starter/mybatis-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-spring-boot-starter-test/mybatis-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/mybatis-spring-boot-starter-test/mybatis-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratelimiter-spring-boot-starter/ratelimiter-spring-boot-starter.iml" filepath="$PROJECT_DIR$/ratelimiter-spring-boot-starter/ratelimiter-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratelimiter-spring-boot-starter-test/ratelimiter-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/ratelimiter-spring-boot-starter-test/ratelimiter-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/white-spring-boot-starter/white-spring-boot-starter.iml" filepath="$PROJECT_DIR$/white-spring-boot-starter/white-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whitelist-spring-boot-starter-test/whitelist-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/whitelist-spring-boot-starter-test/whitelist-spring-boot-starter-test.iml" />
+    </modules>
+  </component>
+</project>

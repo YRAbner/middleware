@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ratelimiter-spring-boot-starter" />
+        <module name="mybatis-spring-boot-starter-test" />
+        <module name="mybatis" />
+        <module name="white-spring-boot-starter" />
+        <module name="mybatis-spring-boot-starter" />
+        <module name="methodext-spring-boot-starter-test" />
+        <module name="mybatis-spring" />
+        <module name="hystrix-spring-boot-starter" />
+        <module name="methodext-spring-boot-starter" />
+        <module name="whitelist-spring-boot-starter-test" />
+        <module name="hystrix-spring-boot-starter-test" />
+        <module name="ratelimiter-spring-boot-starter-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hystrix-spring-boot-starter" target="1.8" />
+      <module name="hystrix-spring-boot-starter-test" target="1.8" />
+      <module name="methodext-spring-boot-starter" target="1.8" />
+      <module name="methodext-spring-boot-starter-test" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="mybatis-spring" target="1.8" />
+      <module name="mybatis-spring-boot-starter" target="1.8" />
+      <module name="mybatis-spring-boot-starter-test" target="1.8" />
+      <module name="ratelimiter-spring-boot-starter" target="1.8" />
+      <module name="ratelimiter-spring-boot-starter-test" target="1.8" />
+      <module name="white-spring-boot-starter" target="1.8" />
+      <module name="whitelist-spring-boot-starter-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hystrix-spring-boot-starter" options="-parameters" />
+      <module name="hystrix-spring-boot-starter-test" options="-parameters" />
+      <module name="methodext-spring-boot-starter" options="-parameters" />
+      <module name="methodext-spring-boot-starter-test" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+      <module name="mybatis-spring" options="-parameters" />
+      <module name="mybatis-spring-boot-starter" options="-parameters" />
+      <module name="mybatis-spring-boot-starter-test" options="-parameters" />
+      <module name="ratelimiter-spring-boot-starter" options="-parameters" />
+      <module name="ratelimiter-spring-boot-starter-test" options="-parameters" />
+      <module name="white-spring-boot-starter" options="-parameters" />
+      <module name="whitelist-spring-boot-starter-test" options="-parameters" />
+    </option>
+  </component>
+</project>

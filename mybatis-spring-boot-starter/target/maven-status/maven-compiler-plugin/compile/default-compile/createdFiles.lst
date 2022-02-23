@@ -1,0 +1,15 @@
+com\myitem\middleware\mybatis\boot\mybatis\SqlSession.class
+com\myitem\middleware\mybatis\boot\spring\MapperFactoryBean.class
+META-INF\spring-configuration-metadata.json
+com\myitem\middleware\mybatis\boot\spring\SimpleMetadataReader.class
+com\myitem\middleware\mybatis\boot\mybatis\DefaultSqlSession.class
+com\myitem\middleware\mybatis\boot\mybatis\DefaultSqlSessionFactory.class
+com\myitem\middleware\mybatis\boot\mybatis\Configuration.class
+com\myitem\middleware\mybatis\boot\autoconfigure\MybatisAutoConfiguration$AutoConfiguredMapperScannerRegistrar.class
+com\myitem\middleware\mybatis\boot\mybatis\XNode.class
+com\myitem\middleware\mybatis\boot\autoconfigure\MybatisProperties.class
+com\myitem\middleware\mybatis\boot\mybatis\SqlSessionFactoryBuilder.class
+com\myitem\middleware\mybatis\boot\autoconfigure\MybatisAutoConfiguration$MapperScannerRegistrarNotFoundConfiguration.class
+com\myitem\middleware\mybatis\boot\mybatis\SqlSessionFactory.class
+com\myitem\middleware\mybatis\boot\autoconfigure\MybatisAutoConfiguration.class
+com\myitem\middleware\mybatis\boot\spring\MapperScannerConfigurer.class

@@ -1,0 +1,5 @@
+com\myitem\middleware\annotation\DoWhiteList.class
+com\myitem\middleware\config\WhiteListAutoConfigure.class
+com\myitem\middleware\config\WhiteListProperties.class
+META-INF\spring-configuration-metadata.json
+com\myitem\middleware\DoJoinPoint.class

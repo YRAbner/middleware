@@ -1,0 +1,3 @@
+com\myitem\middleware\interfaces\UserController.class
+com\myitem\middleware\Application.class
+com\myitem\middleware\interfaces\UserInfo.class

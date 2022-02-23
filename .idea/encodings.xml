@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hystrix-spring-boot-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/methodext-spring-boot-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/methodext-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-spring-boot-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratelimiter-spring-boot-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ratelimiter-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/white-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/whitelist-spring-boot-starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../apache-maven-3.5.2/maven/repository/org/springframework/boot/spring-boot-starter-parent/2.3.5.RELEASE/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

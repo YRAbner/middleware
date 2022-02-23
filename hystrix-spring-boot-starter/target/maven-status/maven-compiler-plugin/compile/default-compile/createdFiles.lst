@@ -1,0 +1,4 @@
+com\myitem\middleware\hystrix\value\IValveService.class
+com\myitem\middleware\hystrix\value\impl\HystrixValveServiceImpl.class
+com\myitem\middleware\hystrix\annotation\DoHystrix.class
+com\myitem\middleware\hystrix\DoHystrixPoint.class
